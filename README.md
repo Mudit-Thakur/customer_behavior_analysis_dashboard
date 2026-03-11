@@ -224,6 +224,6 @@ customer_behavior_analysis_dashboard
 
 **Mudit Thakur**
 
-Aspiring Data Analyst focused on transforming raw data into actionable insights.
+Data Analyst focused on transforming raw data into actionable insights.
 
 If you're interested in collaboration or discussing analytics opportunities, feel free to connect.

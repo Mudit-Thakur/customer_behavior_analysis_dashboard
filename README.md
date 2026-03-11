@@ -220,6 +220,12 @@ customer_behavior_analysis_dashboard
 
 ---
 
+### Dashboard Snapshot
+
+![Dashboard](https://github.com/Mudit-Thakur/customer_behavior_analysis_dashboard/blob/main/dashboard_snapshot.png)
+
+---
+
 ## Author
 
 **Mudit Thakur**
